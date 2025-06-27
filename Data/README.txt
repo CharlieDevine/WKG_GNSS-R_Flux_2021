@@ -16,7 +16,8 @@ Link: http://files.ntsg.umt.edu/data/LPDR_v3/GeoTif/
 - Temporally smoothed using 24-day moving average
 ------------------------------------------------------------------------------------------------------------------------------------
 Land Parameter Retrieval Model v.1 (LPRMv1) Level 3
-Link: https://disc.gsfc.nasa.gov/datasets/LPRM_AMSR2_DS_A_SOILM3_001/summary?keywords=AMSR2%2FGCOM-W1%20surface%20soil%20moisture%20(LPRM)%20L3%201%20day%2010%20km%20x%2010%20km
+Link: https://hydro1.gesdisc.eosdis.nasa.gov/data/WAOB/LPRM_AMSR2_DS_A_SOILM3.001/ (ascending overpass)
+Link: https://hydro1.gesdisc.eosdis.nasa.gov/data/WAOB/LPRM_AMSR2_DS_D_SOILM3.001/ (descending overpass)
 - X- (10.7 GHz), C1- (6.9 GHz), and C2-band (7.3 GHz) from AMSR2 and GCOM-W1
 - 10 km (downscaled) pixel resolution
 - 1-3 day revisit frequency
