@@ -46,7 +46,7 @@ Link: https://ameriflux.lbl.gov/doi/AmeriFlux/US-Wkg/
 --------------------------------------------- Vegetation Greenness/Phenology ---------------------------------------------
 --------------------------------------------------------------------------------------------------------------------------
 PhenoCam Network Green Chromatic Coordinate (GCC)  for Walnut Gulch - Kendall Grassland
-Link: https://phenocam.nau.edu/webcam/roi/kendall/GR_1000/
+Link: https://phenocam.nau.edu/webcam/sites/kendall/
 
 
 ------------------------------------------------------------------------------------------------------------
