@@ -26,7 +26,7 @@
 ### <a href="https://ameriflux.lbl.gov/doi/AmeriFlux/US-Wkg/"> AmeriFlux BASE (Walnut Gulch - Kendall Grassland)
 
 ## *Vegetation Greenness/Phenology*
-### <a href="https://phenocam.nau.edu/webcam/roi/kendall/GR_1000/"> PhenoCam Network Green Chromatic Coordinate (GCC) (Walnut Gulch - Kendall Grassland)
+### <a href="https://phenocam.nau.edu/webcam/sites/kendall/"> PhenoCam Network Green Chromatic Coordinate (GCC) (Walnut Gulch - Kendall Grassland)
 
 ## *Vegetation Cover*
 ### <a href="http://rangeland.ntsg.umt.edu/data/rap/rap-vegetation-cover/v3/"> Rangeland Analysis Platform (RAP) Vegetation Cover (v3) / Plant Functional Type (PFT)
