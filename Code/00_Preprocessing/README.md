@@ -8,4 +8,4 @@
 
 ### Run 01_Timeseries_Extraction.R after 00_ scripts have been run
 - Extracts single-pixel values from VOD datasets
-- Timeseries .csv files are output to /GitHub_Root_Diretory/Data/Timeseries_CSVs/
+- Timeseries .csv files are output to ~/WKG_GNSS-R_Flux_2021/Data/Timeseries_CSVs/
